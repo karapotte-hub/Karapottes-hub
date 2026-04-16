@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-15T14:51:06.893290",
-  "total": 1799,
+  "last_updated": "2026-04-16T13:29:57.620390",
+  "total": 1801,
   "videos": [
+    {
+      "id": "dtE1yGNgsvk",
+      "title": "(Karaoké) | Vivre avec celui qu'on aime | Francine Raymond",
+      "artist": "Francine Raymond",
+      "song": "Vivre avec celui qu'on aime",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/dtE1yGNgsvk/mqdefault.jpg"
+    },
+    {
+      "id": "cIG8RXft1ug",
+      "title": "(Karaoké+V.Chanté) | Vivre avec celui qu'on aime | Francine Raymond",
+      "artist": "Francine Raymond",
+      "song": "Vivre avec celui qu'on aime",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/cIG8RXft1ug/mqdefault.jpg"
+    },
     {
       "id": "Y7J6rZ8nuhc",
       "title": "(Karaoké) | La nature est en beau joual vert | Jaune",
