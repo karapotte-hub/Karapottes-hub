@@ -1,7 +1,39 @@
 {
-  "last_updated": "2026-04-16T18:44:29.412290",
-  "total": 1802,
+  "last_updated": "2026-04-18T13:32:26.638545",
+  "total": 1804,
   "videos": [
+    {
+      "id": "7ba9rucdANQ",
+      "title": "(Karaoké) | Soirs de scotch | Luce Dufault",
+      "artist": "Luce Dufault",
+      "song": "Soirs de scotch",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/7ba9rucdANQ/mqdefault.jpg"
+    },
+    {
+      "id": "ebXFe9PTsEY",
+      "title": "(Karaoké+V.Chanté) | Soirs de scotch | Luce Dufault",
+      "artist": "Luce Dufault",
+      "song": "Soirs de scotch",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/ebXFe9PTsEY/mqdefault.jpg"
+    },
+    {
+      "id": "OJGiuNx5wkA",
+      "title": "(Karaoké) | Mes yeux n'on jamais vu | Patricia Caron",
+      "artist": "Patricia Caron",
+      "song": "Mes yeux n'on jamais vu",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/OJGiuNx5wkA/mqdefault.jpg"
+    },
+    {
+      "id": "v8AdzwZhh1s",
+      "title": "(Karaoké+V.Chanté) | Mes yeux n'on jamais vu | Patricia Caron",
+      "artist": "Patricia Caron",
+      "song": "Mes yeux n'on jamais vu",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/v8AdzwZhh1s/mqdefault.jpg"
+    },
     {
       "id": "e1S2kNcV2BY",
       "title": "[Hors Série] Buckson (Compos)",
@@ -529,22 +561,6 @@
       "song": "Les yeux noirs",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/9hCSmeHqmpQ/mqdefault.jpg"
-    },
-    {
-      "id": "0zxT5Qyw294",
-      "title": "(Karaoke+V.Chanté) | Soirs de scotch | Luce Dufault",
-      "artist": "Luce Dufault",
-      "song": "Soirs de scotch",
-      "type": "voix",
-      "thumb": "https://i.ytimg.com/vi/0zxT5Qyw294/mqdefault.jpg"
-    },
-    {
-      "id": "90e5E1SkM9Y",
-      "title": "(Karaoke+V.Chanté) | Soirs de scotch | Luce Dufault",
-      "artist": "Luce Dufault",
-      "song": "Soirs de scotch",
-      "type": "voix",
-      "thumb": "https://i.ytimg.com/vi/90e5E1SkM9Y/mqdefault.jpg"
     },
     {
       "id": "FIPVg67FaV8",
