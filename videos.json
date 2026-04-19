@@ -1,7 +1,31 @@
 {
-  "last_updated": "2026-04-18T13:32:26.638545",
-  "total": 1804,
+  "last_updated": "2026-04-19T11:29:12.272259",
+  "total": 1807,
   "videos": [
+    {
+      "id": "IzDxsB-NHpU",
+      "title": "(Karaoké) | Ce n'est qu'un rêve | Véronique Labbé",
+      "artist": "Véronique Labbé",
+      "song": "Ce n'est qu'un rêve",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/IzDxsB-NHpU/mqdefault.jpg"
+    },
+    {
+      "id": "wI5Nslm3KxM",
+      "title": "(Karaoké+Back Vocal) | Ce n'est qu'un rêve | Véronique Labbé",
+      "artist": "Véronique Labbé",
+      "song": "Ce n'est qu'un rêve",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/wI5Nslm3KxM/mqdefault.jpg"
+    },
+    {
+      "id": "CDusH3fFbHM",
+      "title": "(Karaoké+V.Chanté) | Ce n'est qu'un rêve | Véronique Labbé",
+      "artist": "Véronique Labbé",
+      "song": "Ce n'est qu'un rêve",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/CDusH3fFbHM/mqdefault.jpg"
+    },
     {
       "id": "7ba9rucdANQ",
       "title": "(Karaoké) | Soirs de scotch | Luce Dufault",
