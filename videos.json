@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-19T11:29:12.272259",
-  "total": 1807,
+  "last_updated": "2026-04-20T10:19:20.671385",
+  "total": 1809,
   "videos": [
+    {
+      "id": "meaOsjaGhlU",
+      "title": "(Karaoké+V.Chanté) | Vivre d'amour | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Vivre d'amour",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/meaOsjaGhlU/mqdefault.jpg"
+    },
+    {
+      "id": "6kE9nmXlLXI",
+      "title": "(Karaoké) | Vivre d'amour | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Vivre d'amour",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/6kE9nmXlLXI/mqdefault.jpg"
+    },
     {
       "id": "IzDxsB-NHpU",
       "title": "(Karaoké) | Ce n'est qu'un rêve | Véronique Labbé",
