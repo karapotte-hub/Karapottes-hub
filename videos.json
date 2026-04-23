@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-04-21T16:23:25.733010",
-  "total": 1813,
+  "last_updated": "2026-04-23T11:37:47.512006",
+  "total": 1815,
   "videos": [
+    {
+      "id": "ELT-AdUuu84",
+      "title": "(Karaoké) | Tout seul | Q.R.B.P.",
+      "artist": "Q.R.B.P.",
+      "song": "Tout seul",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/ELT-AdUuu84/mqdefault.jpg"
+    },
+    {
+      "id": "vhs06veorns",
+      "title": "(Karaoké+V.Chanté) | Tout seul | Q.R.B.P.",
+      "artist": "Q.R.B.P.",
+      "song": "Tout seul",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/vhs06veorns/mqdefault.jpg"
+    },
     {
       "id": "wD-h2bUFXgg",
       "title": "(Karaoké) | Je serai toujours là | Dj.Pete",
