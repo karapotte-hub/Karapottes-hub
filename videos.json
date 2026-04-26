@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-04-26T12:12:54.982858",
-  "total": 1820,
+  "last_updated": "2026-04-26T14:33:52.524437",
+  "total": 1822,
   "channel_name": "Les Karapottés",
   "subscribers": 1610,
-  "total_views": 652757,
-  "video_count": 1819,
+  "total_views": 654022,
+  "video_count": 1821,
   "videos": [
+    {
+      "id": "VUf5oRWxs3w",
+      "title": "(Karaoké) | À toi | Joe Dassin",
+      "artist": "Joe Dassin",
+      "song": "À toi",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/VUf5oRWxs3w/mqdefault.jpg"
+    },
+    {
+      "id": "7RzEimCmICw",
+      "title": "(Karaoké+V.Chanté) | À toi | Joe Dassin",
+      "artist": "Joe Dassin",
+      "song": "À toi",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/7RzEimCmICw/mqdefault.jpg"
+    },
     {
       "id": "UH1FbQReZzQ",
       "title": "(Karaoké) | Les étoiles filantes | Les Cowboys Fringants",
