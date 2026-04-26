@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-04-24T19:55:16.676747",
-  "total": 1818,
+  "last_updated": "2026-04-26T12:12:54.982858",
+  "total": 1820,
   "channel_name": "Les Karapottés",
-  "subscribers": 1600,
-  "total_views": 650787,
-  "video_count": 1817,
+  "subscribers": 1610,
+  "total_views": 652757,
+  "video_count": 1819,
   "videos": [
+    {
+      "id": "UH1FbQReZzQ",
+      "title": "(Karaoké) | Les étoiles filantes | Les Cowboys Fringants",
+      "artist": "Les Cowboys Fringants",
+      "song": "Les étoiles filantes",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/UH1FbQReZzQ/mqdefault.jpg"
+    },
+    {
+      "id": "3E2L-aA8OMw",
+      "title": "(Karaoké+V.Chanté) | Les étoiles filantes | Les Cowboys Fringants",
+      "artist": "Les Cowboys Fringants",
+      "song": "Les étoiles filantes",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/3E2L-aA8OMw/mqdefault.jpg"
+    },
     {
       "id": "f7tF9ri6Ty8",
       "title": "(Karaoké) | Six heures moins quart | Jean-Rock Cummings",
