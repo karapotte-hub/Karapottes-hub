@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-04-26T14:33:52.524437",
-  "total": 1822,
+  "last_updated": "2026-04-27T11:48:51.922315",
+  "total": 1824,
   "channel_name": "Les Karapottés",
   "subscribers": 1610,
-  "total_views": 654022,
-  "video_count": 1821,
+  "total_views": 654422,
+  "video_count": 1823,
   "videos": [
+    {
+      "id": "tD4Kxmw_C3c",
+      "title": "(Karaoké) | Ti-cul | Les Cowboys Fringants",
+      "artist": "Les Cowboys Fringants",
+      "song": "Ti-cul",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/tD4Kxmw_C3c/mqdefault.jpg"
+    },
+    {
+      "id": "PAbPRyMLMdk",
+      "title": "(Karaoké+V.Chanté) | Ti-cul | Les Cowboys Fringants",
+      "artist": "Les Cowboys Fringants",
+      "song": "Ti-cul",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/PAbPRyMLMdk/mqdefault.jpg"
+    },
     {
       "id": "VUf5oRWxs3w",
       "title": "(Karaoké) | À toi | Joe Dassin",
