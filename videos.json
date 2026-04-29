@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-04-28T14:14:12.451954",
-  "total": 1827,
+  "last_updated": "2026-04-29T16:12:22.465451",
+  "total": 1831,
   "channel_name": "Les Karapottés",
-  "subscribers": 1610,
-  "total_views": 655710,
-  "video_count": 1826,
+  "subscribers": 1620,
+  "total_views": 656572,
+  "video_count": 1830,
   "videos": [
+    {
+      "id": "Xy6iNCOldBY",
+      "title": "(Karaoké) | Monsieur Gazou | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Monsieur Gazou",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Xy6iNCOldBY/mqdefault.jpg"
+    },
+    {
+      "id": "3_X4TjUAjeQ",
+      "title": "(Karaoké+V.Chanté) | Monsieur Gazou | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Monsieur Gazou",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/3_X4TjUAjeQ/mqdefault.jpg"
+    },
+    {
+      "id": "kQlbKKw05lo",
+      "title": "(Karaoké+Back Vocal) | Monsieur Gazou | Jean Lapointe",
+      "artist": "Jean Lapointe",
+      "song": "Monsieur Gazou",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/kQlbKKw05lo/mqdefault.jpg"
+    },
+    {
+      "id": "SSs5-17vlLE",
+      "title": "(Karaoké+V.Chanté) | Monsieur Gazou | Jean Lapointe",
+      "artist": "Jean Lapointe",
+      "song": "Monsieur Gazou",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/SSs5-17vlLE/mqdefault.jpg"
+    },
     {
       "id": "9oMICuxFWQk",
       "title": "(Karaoké) | Et si tu n'existais pas | Joe Dassin",
