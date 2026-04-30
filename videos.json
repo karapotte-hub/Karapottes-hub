@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-04-29T16:12:22.465451",
-  "total": 1831,
+  "last_updated": "2026-04-29T20:24:03.877604",
+  "total": 1833,
   "channel_name": "Les Karapottés",
   "subscribers": 1620,
   "total_views": 656572,
-  "video_count": 1830,
+  "video_count": 1832,
   "videos": [
+    {
+      "id": "yrlUDB5ADAs",
+      "title": "(Karaoké) | Monsieur le clown | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Monsieur le clown",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/yrlUDB5ADAs/mqdefault.jpg"
+    },
+    {
+      "id": "_uoiQ63Qh-I",
+      "title": "(Karaoké+V.Chanté) | Monsieur le clown | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Monsieur le clown",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/_uoiQ63Qh-I/mqdefault.jpg"
+    },
     {
       "id": "Xy6iNCOldBY",
       "title": "(Karaoké) | Monsieur Gazou | Dj.Pete",
