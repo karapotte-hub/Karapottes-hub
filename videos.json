@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-04-30T11:39:39.846187",
-  "total": 1838,
+  "last_updated": "2026-04-30T17:32:19.557471",
+  "total": 1841,
   "channel_name": "Les Karapottés",
   "subscribers": 1620,
-  "total_views": 656827,
-  "video_count": 1837,
+  "total_views": 657613,
+  "video_count": 1840,
   "videos": [
+    {
+      "id": "H-KtR3bCc1E",
+      "title": "(Karaoké) | U.I.C | 1755",
+      "artist": "1755",
+      "song": "U.I.C",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/H-KtR3bCc1E/mqdefault.jpg"
+    },
+    {
+      "id": "i_fLObesTHc",
+      "title": "(Karaoké+Back Vocal) | U.I.C | 1755",
+      "artist": "1755",
+      "song": "U.I.C",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/i_fLObesTHc/mqdefault.jpg"
+    },
+    {
+      "id": "xDDX03goFBs",
+      "title": "(Karaoké+V.Chanté) | U.I.C | 1755",
+      "artist": "1755",
+      "song": "U.I.C",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/xDDX03goFBs/mqdefault.jpg"
+    },
     {
       "id": "KIlNx8Qq3WA",
       "title": "[Hors Série] ANNONCE Patreon",
