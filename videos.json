@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-04-29T20:24:03.877604",
-  "total": 1833,
+  "last_updated": "2026-04-30T11:39:39.846187",
+  "total": 1838,
   "channel_name": "Les Karapottés",
   "subscribers": 1620,
-  "total_views": 656572,
-  "video_count": 1832,
+  "total_views": 656827,
+  "video_count": 1837,
   "videos": [
+    {
+      "id": "KIlNx8Qq3WA",
+      "title": "[Hors Série] ANNONCE Patreon",
+      "artist": "Divers",
+      "song": "[Hors Série] ANNONCE Patreon",
+      "type": "autre",
+      "thumb": "https://i.ytimg.com/vi/KIlNx8Qq3WA/mqdefault.jpg"
+    },
+    {
+      "id": "t7x34Ry_Nz8",
+      "title": "(Karaoké) | Le monde a bien changé | 1755",
+      "artist": "1755",
+      "song": "Le monde a bien changé",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/t7x34Ry_Nz8/mqdefault.jpg"
+    },
+    {
+      "id": "aWni-yC46WI",
+      "title": "(Karaoké+Back Vocal) | Le monde a bien changé | 1755",
+      "artist": "1755",
+      "song": "Le monde a bien changé",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/aWni-yC46WI/mqdefault.jpg"
+    },
+    {
+      "id": "SZCZMnznFHk",
+      "title": "(Karaoké+V.Chanté) | Le monde a bien changé | 1755",
+      "artist": "1755",
+      "song": "Le monde a bien changé",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/SZCZMnznFHk/mqdefault.jpg"
+    },
+    {
+      "id": "lYLgIs6yvE8",
+      "title": "[Hors série] En éternelle attente",
+      "artist": "Divers",
+      "song": "[Hors série] En éternelle attente",
+      "type": "autre",
+      "thumb": "https://i.ytimg.com/vi/lYLgIs6yvE8/mqdefault.jpg"
+    },
     {
       "id": "yrlUDB5ADAs",
       "title": "(Karaoké) | Monsieur le clown | Dj.Pete",
