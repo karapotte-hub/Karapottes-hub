@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-04-30T17:32:19.557471",
-  "total": 1841,
+  "last_updated": "2026-05-01T11:33:31.177939",
+  "total": 1844,
   "channel_name": "Les Karapottés",
   "subscribers": 1620,
-  "total_views": 657613,
-  "video_count": 1840,
+  "total_views": 658541,
+  "video_count": 1843,
   "videos": [
+    {
+      "id": "h4AA7yIqD9w",
+      "title": "(Karaoké) | Elle s'en va | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Elle s'en va",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/h4AA7yIqD9w/mqdefault.jpg"
+    },
+    {
+      "id": "sJaIHht3Zp4",
+      "title": "(Karaoké+V.Chanté) | Elle s'en va | Patrick Norman",
+      "artist": "Patrick Norman",
+      "song": "Elle s'en va",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/sJaIHht3Zp4/mqdefault.jpg"
+    },
+    {
+      "id": "zBtpN2l8QLQ",
+      "title": "[Hors Série] Présentation de l'application disponible sur Patreon",
+      "artist": "Divers",
+      "song": "[Hors Série] Présentation de l'application disponible sur Patreon",
+      "type": "autre",
+      "thumb": "https://i.ytimg.com/vi/zBtpN2l8QLQ/mqdefault.jpg"
+    },
     {
       "id": "H-KtR3bCc1E",
       "title": "(Karaoké) | U.I.C | 1755",
