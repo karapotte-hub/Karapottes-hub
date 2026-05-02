@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-01T11:33:31.177939",
-  "total": 1844,
+  "last_updated": "2026-05-02T14:00:11.660321",
+  "total": 1846,
   "channel_name": "Les Karapottés",
   "subscribers": 1620,
-  "total_views": 658541,
-  "video_count": 1843,
+  "total_views": 660412,
+  "video_count": 1845,
   "videos": [
+    {
+      "id": "pd7OmRoFzvI",
+      "title": "(Karaoké) | Quoi-ce tu fais ça pour | Lisa Leblanc",
+      "artist": "Lisa Leblanc",
+      "song": "Quoi-ce tu fais ça pour",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/pd7OmRoFzvI/mqdefault.jpg"
+    },
+    {
+      "id": "Xh632xvIJY4",
+      "title": "(Karaoké+V.Chanté) | Quoi-ce tu fais ça pour | Lisa Leblanc",
+      "artist": "Lisa Leblanc",
+      "song": "Quoi-ce tu fais ça pour",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/Xh632xvIJY4/mqdefault.jpg"
+    },
     {
       "id": "h4AA7yIqD9w",
       "title": "(Karaoké) | Elle s'en va | Patrick Norman",
