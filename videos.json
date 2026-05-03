@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-02T14:00:11.660321",
-  "total": 1846,
+  "last_updated": "2026-05-03T14:33:16.803862",
+  "total": 1848,
   "channel_name": "Les Karapottés",
   "subscribers": 1620,
-  "total_views": 660412,
-  "video_count": 1845,
+  "total_views": 660926,
+  "video_count": 1847,
   "videos": [
+    {
+      "id": "Z8rWCQ9A97I",
+      "title": "(Karaoké) | Une promesse | Cindy Daniels",
+      "artist": "Cindy Daniels",
+      "song": "Une promesse",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Z8rWCQ9A97I/mqdefault.jpg"
+    },
+    {
+      "id": "SuESXxkoXVg",
+      "title": "(Karaoké+V.Chanté) | Une promesse | Cindy Daniels",
+      "artist": "Cindy Daniels",
+      "song": "Une promesse",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/SuESXxkoXVg/mqdefault.jpg"
+    },
     {
       "id": "pd7OmRoFzvI",
       "title": "(Karaoké) | Quoi-ce tu fais ça pour | Lisa Leblanc",
