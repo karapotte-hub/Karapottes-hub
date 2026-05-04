@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-03T14:33:16.803862",
-  "total": 1848,
+  "last_updated": "2026-05-04T14:42:11.572174",
+  "total": 1851,
   "channel_name": "Les Karapottés",
   "subscribers": 1620,
-  "total_views": 660926,
-  "video_count": 1847,
+  "total_views": 663685,
+  "video_count": 1850,
   "videos": [
+    {
+      "id": "WYuCNw6IUdw",
+      "title": "(Karaoké) | Le début d'un temps nouveau | Meggie Lagacé",
+      "artist": "Meggie Lagacé",
+      "song": "Le début d'un temps nouveau",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/WYuCNw6IUdw/mqdefault.jpg"
+    },
+    {
+      "id": "KNbzDdbMgcQ",
+      "title": "(Karaoké+Back Vocal) | Le début d'un temps nouveau | Meggie Lagacé",
+      "artist": "Meggie Lagacé",
+      "song": "Le début d'un temps nouveau",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/KNbzDdbMgcQ/mqdefault.jpg"
+    },
+    {
+      "id": "k1e6ZsywMSs",
+      "title": "(Karaoké+V.Chanté) | Le début d'un temps nouveau | Meggie Lagacé",
+      "artist": "Meggie Lagacé",
+      "song": "Le début d'un temps nouveau",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/k1e6ZsywMSs/mqdefault.jpg"
+    },
     {
       "id": "Z8rWCQ9A97I",
       "title": "(Karaoké) | Une promesse | Cindy Daniels",
