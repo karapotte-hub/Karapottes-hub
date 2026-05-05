@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-04T14:42:11.572174",
-  "total": 1851,
+  "last_updated": "2026-05-05T13:17:01.207573",
+  "total": 1853,
   "channel_name": "Les Karapottés",
   "subscribers": 1620,
-  "total_views": 663685,
-  "video_count": 1850,
+  "total_views": 665058,
+  "video_count": 1852,
   "videos": [
+    {
+      "id": "KRzwrKTGPBQ",
+      "title": "(Karaoké) | Au bord du canal | Stephen Faulkner",
+      "artist": "Stephen Faulkner",
+      "song": "Au bord du canal",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/KRzwrKTGPBQ/mqdefault.jpg"
+    },
+    {
+      "id": "1RQSvQMvPzY",
+      "title": "(Karaoké+V.Chanté) | Au bord du canal | Stephen Faulkner",
+      "artist": "Stephen Faulkner",
+      "song": "Au bord du canal",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/1RQSvQMvPzY/mqdefault.jpg"
+    },
     {
       "id": "WYuCNw6IUdw",
       "title": "(Karaoké) | Le début d'un temps nouveau | Meggie Lagacé",
