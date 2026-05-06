@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-05T13:17:01.207573",
-  "total": 1853,
+  "last_updated": "2026-05-06T11:55:51.610971",
+  "total": 1856,
   "channel_name": "Les Karapottés",
-  "subscribers": 1620,
+  "subscribers": 1630,
   "total_views": 665058,
-  "video_count": 1852,
+  "video_count": 1855,
   "videos": [
+    {
+      "id": "mk0VYyP5cmo",
+      "title": "(Karaoké) | Infâme destin | Gaston Mandeville",
+      "artist": "Gaston Mandeville",
+      "song": "Infâme destin",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/mk0VYyP5cmo/mqdefault.jpg"
+    },
+    {
+      "id": "lHXWVeVXIak",
+      "title": "(Karaoké+Back Vocal) | Infâme destin | Gaston Mandeville",
+      "artist": "Gaston Mandeville",
+      "song": "Infâme destin",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/lHXWVeVXIak/mqdefault.jpg"
+    },
+    {
+      "id": "2rBO09QFAIQ",
+      "title": "(Karaoké+V.Chanté) | Infâme destin | Gaston Mandeville",
+      "artist": "Gaston Mandeville",
+      "song": "Infâme destin",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/2rBO09QFAIQ/mqdefault.jpg"
+    },
     {
       "id": "KRzwrKTGPBQ",
       "title": "(Karaoké) | Au bord du canal | Stephen Faulkner",
