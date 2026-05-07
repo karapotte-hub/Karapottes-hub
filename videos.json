@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-06T11:55:51.610971",
-  "total": 1856,
+  "last_updated": "2026-05-07T13:07:18.116495",
+  "total": 1858,
   "channel_name": "Les Karapottés",
   "subscribers": 1630,
-  "total_views": 665058,
-  "video_count": 1855,
+  "total_views": 667011,
+  "video_count": 1857,
   "videos": [
+    {
+      "id": "uEXa-l0LhG4",
+      "title": "(Karaoké) | Euthanazie | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Euthanazie",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/uEXa-l0LhG4/mqdefault.jpg"
+    },
+    {
+      "id": "jaoFP-Zy_BM",
+      "title": "(Karaoké+V.Chanté) | Euthanazie | Plume Latraverse",
+      "artist": "Plume Latraverse",
+      "song": "Euthanazie",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/jaoFP-Zy_BM/mqdefault.jpg"
+    },
     {
       "id": "mk0VYyP5cmo",
       "title": "(Karaoké) | Infâme destin | Gaston Mandeville",
