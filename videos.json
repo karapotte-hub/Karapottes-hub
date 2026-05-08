@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-07T13:07:18.116495",
-  "total": 1858,
+  "last_updated": "2026-05-08T14:50:02.553752",
+  "total": 1861,
   "channel_name": "Les Karapottés",
   "subscribers": 1630,
-  "total_views": 667011,
-  "video_count": 1857,
+  "total_views": 667894,
+  "video_count": 1860,
   "videos": [
+    {
+      "id": "aVwCWamcuMc",
+      "title": "(Karaoké) | Besoin qu'on m'aime | Capitaine Nô",
+      "artist": "Capitaine Nô",
+      "song": "Besoin qu'on m'aime",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/aVwCWamcuMc/mqdefault.jpg"
+    },
+    {
+      "id": "JbfJya7pTuM",
+      "title": "(Karaoké+V.Chanté) | Besoin qu'on m'aime | Capitaine Nô",
+      "artist": "Capitaine Nô",
+      "song": "Besoin qu'on m'aime",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/JbfJya7pTuM/mqdefault.jpg"
+    },
+    {
+      "id": "YujhKMTjqdw",
+      "title": "[Hors Séries] Roule (Compos)",
+      "artist": "Divers",
+      "song": "[Hors Séries] Roule (Compos)",
+      "type": "autre",
+      "thumb": "https://i.ytimg.com/vi/YujhKMTjqdw/mqdefault.jpg"
+    },
     {
       "id": "uEXa-l0LhG4",
       "title": "(Karaoké) | Euthanazie | Plume Latraverse",
