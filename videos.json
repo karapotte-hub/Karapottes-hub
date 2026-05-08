@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-08T14:50:02.553752",
-  "total": 1861,
+  "last_updated": "2026-05-08T17:35:48.170048",
+  "total": 1863,
   "channel_name": "Les Karapottés",
   "subscribers": 1630,
-  "total_views": 667894,
-  "video_count": 1860,
+  "total_views": 668702,
+  "video_count": 1862,
   "videos": [
+    {
+      "id": "oKJ6ng4useE",
+      "title": "(Karaoké) | Besoin qu'on m'aime | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Besoin qu'on m'aime",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/oKJ6ng4useE/mqdefault.jpg"
+    },
+    {
+      "id": "xlS9vL-OYkg",
+      "title": "(Karaoké+V.Chanté) | Besoin qu'on m'aime | Dj.Pete",
+      "artist": "Dj.Pete",
+      "song": "Besoin qu'on m'aime",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/xlS9vL-OYkg/mqdefault.jpg"
+    },
     {
       "id": "aVwCWamcuMc",
       "title": "(Karaoké) | Besoin qu'on m'aime | Capitaine Nô",
