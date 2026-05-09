@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-08T17:35:48.170048",
-  "total": 1863,
+  "last_updated": "2026-05-09T14:35:09.804030",
+  "total": 1865,
   "channel_name": "Les Karapottés",
   "subscribers": 1630,
-  "total_views": 668702,
-  "video_count": 1862,
+  "total_views": 669958,
+  "video_count": 1864,
   "videos": [
+    {
+      "id": "J_uLqqRh9t0",
+      "title": "(Karaoké) | Samedi soir à Macaza | Veranda",
+      "artist": "Veranda",
+      "song": "Samedi soir à Macaza",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/J_uLqqRh9t0/mqdefault.jpg"
+    },
+    {
+      "id": "KAELd0FeV2A",
+      "title": "(Karaoké+V.Chanté) | Samedi soir à Macaza | Veranda",
+      "artist": "Veranda",
+      "song": "Samedi soir à Macaza",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/KAELd0FeV2A/mqdefault.jpg"
+    },
     {
       "id": "oKJ6ng4useE",
       "title": "(Karaoké) | Besoin qu'on m'aime | Dj.Pete",
