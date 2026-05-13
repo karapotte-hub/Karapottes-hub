@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-12T11:15:00.395630",
-  "total": 1874,
+  "last_updated": "2026-05-13T13:22:37.804425",
+  "total": 1877,
   "channel_name": "Les Karapottés",
   "subscribers": 1650,
-  "total_views": 673120,
-  "video_count": 1873,
+  "total_views": 674749,
+  "video_count": 1876,
   "videos": [
+    {
+      "id": "s9TbDpe1ZVE",
+      "title": "(Karaoké) | Mes yeux amoureux | Benoît Miron",
+      "artist": "Benoît Miron",
+      "song": "Mes yeux amoureux",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/s9TbDpe1ZVE/mqdefault.jpg"
+    },
+    {
+      "id": "rKzsKCezTqc",
+      "title": "(Karaoké+Back Vocal) | Mes yeux amoureux | Benoît Miron",
+      "artist": "Benoît Miron",
+      "song": "Mes yeux amoureux",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/rKzsKCezTqc/mqdefault.jpg"
+    },
+    {
+      "id": "7CWoTDEVhSM",
+      "title": "(Karaoké+V.Chanté) | Mes yeux amoureux | Benoît Miron",
+      "artist": "Benoît Miron",
+      "song": "Mes yeux amoureux",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/7CWoTDEVhSM/mqdefault.jpg"
+    },
     {
       "id": "d1-xmcPMgUM",
       "title": "(Karaoké) | Tu es là | Ginette Reno",
