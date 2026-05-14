@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-13T16:27:53.304121",
-  "total": 1880,
+  "last_updated": "2026-05-14T14:10:04.514928",
+  "total": 1882,
   "channel_name": "Les Karapottés",
   "subscribers": 1650,
-  "total_views": 674749,
-  "video_count": 1879,
+  "total_views": 675085,
+  "video_count": 1881,
   "videos": [
+    {
+      "id": "_yznlM8Y0LI",
+      "title": "(Karaoké) | Chinatown Blues | Luc De Larochelière",
+      "artist": "Luc De Larochelière",
+      "song": "Chinatown Blues",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/_yznlM8Y0LI/mqdefault.jpg"
+    },
+    {
+      "id": "dEbQX9AmqxE",
+      "title": "(Karaoké+V.Chanté) | Chinatown Blues | Luc De Larochelière",
+      "artist": "Luc De Larochelière",
+      "song": "Chinatown Blues",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/dEbQX9AmqxE/mqdefault.jpg"
+    },
     {
       "id": "KAslsH7Ow1Q",
       "title": "(Karaoké) | Mes yeux d'amoureux | Dj.Pete",
