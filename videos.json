@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-05-14T14:10:04.514928",
-  "total": 1882,
+  "last_updated": "2026-05-15T13:39:15.994211",
+  "total": 1887,
   "channel_name": "Les Karapottés",
   "subscribers": 1650,
-  "total_views": 675085,
-  "video_count": 1881,
+  "total_views": 676178,
+  "video_count": 1886,
   "videos": [
+    {
+      "id": "O8RP6EJWn04",
+      "title": "(Karaoké) | Je m'ennuie de toi | André Sylvain",
+      "artist": "André Sylvain",
+      "song": "Je m'ennuie de toi",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/O8RP6EJWn04/mqdefault.jpg"
+    },
+    {
+      "id": "DajQ9b94qS4",
+      "title": "(Karaoké+Back Vocal) | Je m'ennuie de toi | André Sylvain",
+      "artist": "André Sylvain",
+      "song": "Je m'ennuie de toi",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/DajQ9b94qS4/mqdefault.jpg"
+    },
+    {
+      "id": "5Q47GT_g4wk",
+      "title": "(Karaoké+V.Chanté) | Je m'ennuie de toi | André Sylvain",
+      "artist": "André Sylvain",
+      "song": "Je m'ennuie de toi",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/5Q47GT_g4wk/mqdefault.jpg"
+    },
+    {
+      "id": "Bpj_OYj9_PM",
+      "title": "(Karaoké) | Je m'ennuie de toi | Chantal Pary",
+      "artist": "Chantal Pary",
+      "song": "Je m'ennuie de toi",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/Bpj_OYj9_PM/mqdefault.jpg"
+    },
+    {
+      "id": "u9eICG7c1Dc",
+      "title": "(Karaoké+V.Chanté) | Je m'ennuie de toi | Chantal Pary",
+      "artist": "Chantal Pary",
+      "song": "Je m'ennuie de toi",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/u9eICG7c1Dc/mqdefault.jpg"
+    },
     {
       "id": "_yznlM8Y0LI",
       "title": "(Karaoké) | Chinatown Blues | Luc De Larochelière",
