@@ -1,40 +1,64 @@
 {
-  "last_updated": "2026-05-16T13:49:13.489727",
-  "total": 1891,
+  "last_updated": "2026-05-17T11:23:51.142242",
+  "total": 1894,
   "channel_name": "Les Karapottés",
   "subscribers": 1650,
-  "total_views": 678385,
-  "video_count": 1890,
+  "total_views": 678865,
+  "video_count": 1893,
   "videos": [
     {
+      "id": "RaIFtX_vYm4",
+      "title": "(Karaoké) | Si tu m'aimes | Isabelle Pierre",
+      "artist": "Isabelle Pierre",
+      "song": "Si tu m'aimes",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/RaIFtX_vYm4/mqdefault.jpg"
+    },
+    {
+      "id": "x8p1jrgGvd0",
+      "title": "(Karaoké+Back Vocal) | Si tu m'aimes | Isabelle Pierre",
+      "artist": "Isabelle Pierre",
+      "song": "Si tu m'aimes",
+      "type": "backvocal",
+      "thumb": "https://i.ytimg.com/vi/x8p1jrgGvd0/mqdefault.jpg"
+    },
+    {
+      "id": "b15yaMWGrJk",
+      "title": "(Karaoké+V.Chanté) | Si tu m'aimes | Isabelle Pierre",
+      "artist": "Isabelle Pierre",
+      "song": "Si tu m'aimes",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/b15yaMWGrJk/mqdefault.jpg"
+    },
+    {
       "id": "AQfRPGvwyUQ",
-      "title": "(Karaoké) | Attnd-moi Ti-gars | Manon Bédard",
+      "title": "(Karaoké) | Attend-moi Ti-gars | Manon Bédard",
       "artist": "Manon Bédard",
-      "song": "Attnd-moi Ti-gars",
+      "song": "Attend-moi Ti-gars",
       "type": "karaoke",
       "thumb": "https://i.ytimg.com/vi/AQfRPGvwyUQ/mqdefault.jpg"
     },
     {
       "id": "0PUB0UyYYXg",
-      "title": "(Karaoké+Back Vocal) | Attnd-moi Ti-gars | Manon Bédard",
+      "title": "(Karaoké+Back Vocal) | Attend-moi Ti-gars | Manon Bédard",
       "artist": "Manon Bédard",
-      "song": "Attnd-moi Ti-gars",
+      "song": "Attend-moi Ti-gars",
       "type": "backvocal",
       "thumb": "https://i.ytimg.com/vi/0PUB0UyYYXg/mqdefault.jpg"
     },
     {
       "id": "r5v-dAryIpI",
-      "title": "(Karaoké+V.Chanté) | Attnd-moi Ti-gars | Manon Bédard",
+      "title": "(Karaoké+V.Chanté) | Attend-moi Ti-gars | Manon Bédard",
       "artist": "Manon Bédard",
-      "song": "Attnd-moi Ti-gars",
+      "song": "Attend-moi Ti-gars",
       "type": "voix",
       "thumb": "https://i.ytimg.com/vi/r5v-dAryIpI/mqdefault.jpg"
     },
     {
       "id": "hXrXWRxOCoE",
-      "title": "On fait un Karaoké en live",
+      "title": "[hors-série] On fait un Karaoké en live",
       "artist": "Divers",
-      "song": "On fait un Karaoké en live",
+      "song": "[hors-série] On fait un Karaoké en live",
       "type": "autre",
       "thumb": "https://i.ytimg.com/vi/hXrXWRxOCoE/mqdefault.jpg"
     },
