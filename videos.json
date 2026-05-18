@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-05-17T11:23:51.142242",
-  "total": 1894,
+  "last_updated": "2026-05-18T12:08:46.955757",
+  "total": 1896,
   "channel_name": "Les Karapottés",
   "subscribers": 1650,
-  "total_views": 678865,
-  "video_count": 1893,
+  "total_views": 681215,
+  "video_count": 1895,
   "videos": [
+    {
+      "id": "2bU_zQmmLiE",
+      "title": "(Karaoké) | La vallée des réputations | Jean Leloup",
+      "artist": "Jean Leloup",
+      "song": "La vallée des réputations",
+      "type": "karaoke",
+      "thumb": "https://i.ytimg.com/vi/2bU_zQmmLiE/mqdefault.jpg"
+    },
+    {
+      "id": "3bPRmbGpYsA",
+      "title": "(Karaoké+V.Chanté) | La vallée des réputations | Jean Leloup",
+      "artist": "Jean Leloup",
+      "song": "La vallée des réputations",
+      "type": "voix",
+      "thumb": "https://i.ytimg.com/vi/3bPRmbGpYsA/mqdefault.jpg"
+    },
     {
       "id": "RaIFtX_vYm4",
       "title": "(Karaoké) | Si tu m'aimes | Isabelle Pierre",
